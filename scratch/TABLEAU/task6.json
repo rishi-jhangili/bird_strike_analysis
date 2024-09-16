@@ -1,0 +1,34 @@
+[
+	{
+		"conditions_precipitation" : "none",
+		"total_bird_strike" : 50584
+	},
+	{
+		"conditions_precipitation" : "Rain",
+		"total_bird_strike" : 3626
+	},
+	{
+		"conditions_precipitation" : "Fog",
+		"total_bird_strike" : 1423
+	},
+	{
+		"conditions_precipitation" : "Snow",
+		"total_bird_strike" : 353
+	},
+	{
+		"conditions_precipitation" : "Fog, Rain",
+		"total_bird_strike" : 284
+	},
+	{
+		"conditions_precipitation" : "Rain, Snow",
+		"total_bird_strike" : 20
+	},
+	{
+		"conditions_precipitation" : "Fog, Rain, Snow",
+		"total_bird_strike" : 6
+	},
+	{
+		"conditions_precipitation" : "Fog, Snow",
+		"total_bird_strike" : 4
+	}
+]

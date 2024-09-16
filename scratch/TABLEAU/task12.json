@@ -1,0 +1,22 @@
+[
+	{
+		"pilot_warned_of_wildlife" : "N",
+		"effect_indicated_damage" : "No damage",
+		"total_birds" : 25640
+	},
+	{
+		"pilot_warned_of_wildlife" : "Y",
+		"effect_indicated_damage" : "No damage",
+		"total_birds" : 22923
+	},
+	{
+		"pilot_warned_of_wildlife" : "N",
+		"effect_indicated_damage" : "Caused damage",
+		"total_birds" : 4446
+	},
+	{
+		"pilot_warned_of_wildlife" : "Y",
+		"effect_indicated_damage" : "Caused damage",
+		"total_birds" : 3291
+	}
+]

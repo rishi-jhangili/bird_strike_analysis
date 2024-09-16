@@ -1,0 +1,30 @@
+[
+	{
+		"phase_of_flight" : "Approach",
+		"total_bird_strike" : 20718
+	},
+	{
+		"phase_of_flight" : "Landing Roll",
+		"total_bird_strike" : 12127
+	},
+	{
+		"phase_of_flight" : "Take-off run",
+		"total_bird_strike" : 12035
+	},
+	{
+		"phase_of_flight" : "Climb",
+		"total_bird_strike" : 10088
+	},
+	{
+		"phase_of_flight" : "Descent",
+		"total_bird_strike" : 1184
+	},
+	{
+		"phase_of_flight" : "Taxi",
+		"total_bird_strike" : 135
+	},
+	{
+		"phase_of_flight" : "Parked",
+		"total_bird_strike" : 13
+	}
+]

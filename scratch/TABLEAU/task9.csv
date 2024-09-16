@@ -1,0 +1,11 @@
+impact_on_flight,effect_indicated_damage,total_bird_strike
+none,"No damage",44553
+none,"Caused damage",4148
+"Precautionary Landing","No damage",2159
+"Precautionary Landing","Caused damage",2052
+"Aborted Take-off","No damage",1070
+Other,"No damage",766
+"Aborted Take-off","Caused damage",646
+Other,"Caused damage",506
+"Engine Shut Down","Caused damage",385
+"Engine Shut Down","No damage",15

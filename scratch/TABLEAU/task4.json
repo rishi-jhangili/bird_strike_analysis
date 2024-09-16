@@ -1,0 +1,202 @@
+[
+	{
+		"airport_name" : "DALLAS/FORT WORTH INTL ARPT",
+		"total_bird_strike" : 2228
+	},
+	{
+		"airport_name" : "SACRAMENTO INTL",
+		"total_bird_strike" : 1641
+	},
+	{
+		"airport_name" : "SALT LAKE CITY INTL",
+		"total_bird_strike" : 1212
+	},
+	{
+		"airport_name" : "PHILADELPHIA INTL",
+		"total_bird_strike" : 1111
+	},
+	{
+		"airport_name" : "JOHN F KENNEDY INTL",
+		"total_bird_strike" : 1002
+	},
+	{
+		"airport_name" : "KANSAS CITY INTL",
+		"total_bird_strike" : 887
+	},
+	{
+		"airport_name" : "DENVER INTL AIRPORT",
+		"total_bird_strike" : 845
+	},
+	{
+		"airport_name" : "SAN FRANCISCO INTL ARPT",
+		"total_bird_strike" : 842
+	},
+	{
+		"airport_name" : "ORLANDO INTL",
+		"total_bird_strike" : 826
+	},
+	{
+		"airport_name" : "CINCINNATI/NORTHERN KENTUCKY INTL ARPT",
+		"total_bird_strike" : 816
+	},
+	{
+		"airport_name" : "LOGAN INTL",
+		"total_bird_strike" : 812
+	},
+	{
+		"airport_name" : "BALTIMORE WASH INTL",
+		"total_bird_strike" : 786
+	},
+	{
+		"airport_name" : "CHARLOTTE/DOUGLAS INTL ARPT",
+		"total_bird_strike" : 779
+	},
+	{
+		"airport_name" : "LOUISVILLE INTL ARPT",
+		"total_bird_strike" : 775
+	},
+	{
+		"airport_name" : "NASHVILLE INTL",
+		"total_bird_strike" : 750
+	},
+	{
+		"airport_name" : "NEWARK LIBERTY INTL ARPT",
+		"total_bird_strike" : 739
+	},
+	{
+		"airport_name" : "ATLANTA INTL",
+		"total_bird_strike" : 683
+	},
+	{
+		"airport_name" : "CHICAGO O'HARE INTL ARPT",
+		"total_bird_strike" : 655
+	},
+	{
+		"airport_name" : "LAGUARDIA NY",
+		"total_bird_strike" : 629
+	},
+	{
+		"airport_name" : "DETROIT METRO WAYNE COUNTY ARPT",
+		"total_bird_strike" : 626
+	},
+	{
+		"airport_name" : "METRO OAKLAND INTL",
+		"total_bird_strike" : 611
+	},
+	{
+		"airport_name" : "LAMBERT-ST LOUIS INTL",
+		"total_bird_strike" : 604
+	},
+	{
+		"airport_name" : "CLEVELAND-HOPKINS INTL ARPT",
+		"total_bird_strike" : 584
+	},
+	{
+		"airport_name" : "HARRISBURG INTL",
+		"total_bird_strike" : 577
+	},
+	{
+		"airport_name" : "BIRMINGHAM-SHUTTLESWORTH INTL",
+		"total_bird_strike" : 564
+	},
+	{
+		"airport_name" : "MINNEAPOLIS-ST PAUL INTL",
+		"total_bird_strike" : 557
+	},
+	{
+		"airport_name" : "WASHINGTON DULLES INTL ARPT",
+		"total_bird_strike" : 538
+	},
+	{
+		"airport_name" : "LIHUE ARPT",
+		"total_bird_strike" : 529
+	},
+	{
+		"airport_name" : "EPPLEY AIRFIELD",
+		"total_bird_strike" : 528
+	},
+	{
+		"airport_name" : "GREATER PITTSBURGH",
+		"total_bird_strike" : 500
+	},
+	{
+		"airport_name" : "PORTLAND INTL (OR)",
+		"total_bird_strike" : 493
+	},
+	{
+		"airport_name" : "CHICAGO MIDWAY INTL ARPT",
+		"total_bird_strike" : 490
+	},
+	{
+		"airport_name" : "FORT LAUDERDALE/HOLLYWOOD INTL",
+		"total_bird_strike" : 481
+	},
+	{
+		"airport_name" : "RONALD REAGAN WASHINGTON NATL",
+		"total_bird_strike" : 451
+	},
+	{
+		"airport_name" : "NEW ORLEANS INTL",
+		"total_bird_strike" : 448
+	},
+	{
+		"airport_name" : "GEORGE BUSH INTERCONTINENTAL",
+		"total_bird_strike" : 428
+	},
+	{
+		"airport_name" : "HOUSTON-HOBBY",
+		"total_bird_strike" : 421
+	},
+	{
+		"airport_name" : "MEMPHIS INTL",
+		"total_bird_strike" : 411
+	},
+	{
+		"airport_name" : "LOS ANGELES INTL",
+		"total_bird_strike" : 408
+	},
+	{
+		"airport_name" : "DALLAS LOVE FIELD ARPT",
+		"total_bird_strike" : 405
+	},
+	{
+		"airport_name" : "BUFFALO-NIAGARA INTL",
+		"total_bird_strike" : 397
+	},
+	{
+		"airport_name" : "AUSTIN-BERGSTROM INTL",
+		"total_bird_strike" : 387
+	},
+	{
+		"airport_name" : "HONOLULU INTL ARPT",
+		"total_bird_strike" : 378
+	},
+	{
+		"airport_name" : "HILO INTL ARPT",
+		"total_bird_strike" : 370
+	},
+	{
+		"airport_name" : "SOUTHWEST FLORIDA INTL ARPT",
+		"total_bird_strike" : 360
+	},
+	{
+		"airport_name" : "MIAMI INTL",
+		"total_bird_strike" : 359
+	},
+	{
+		"airport_name" : "PORT COLUMBUS INTL",
+		"total_bird_strike" : 355
+	},
+	{
+		"airport_name" : "BRADLEY INTL",
+		"total_bird_strike" : 341
+	},
+	{
+		"airport_name" : "INDIANAPOLIS INTL",
+		"total_bird_strike" : 337
+	},
+	{
+		"airport_name" : "SEATTLE-TACOMA INTL",
+		"total_bird_strike" : 337
+	}
+]

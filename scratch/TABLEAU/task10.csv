@@ -1,0 +1,5 @@
+altitude,effect_indicated_damage,total_bird_strike
+"< 1000 ft","No damage",42650
+"< 1000 ft","Caused damage",5976
+"> 1000 ft","No damage",5913
+"> 1000 ft","Caused damage",1761

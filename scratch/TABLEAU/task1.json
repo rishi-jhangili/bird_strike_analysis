@@ -1,0 +1,50 @@
+[
+	{
+		"year" : 2000,
+		"total_birds_strike" : 3143
+	},
+	{
+		"year" : 2001,
+		"total_birds_strike" : 3235
+	},
+	{
+		"year" : 2002,
+		"total_birds_strike" : 3986
+	},
+	{
+		"year" : 2003,
+		"total_birds_strike" : 3894
+	},
+	{
+		"year" : 2004,
+		"total_birds_strike" : 3804
+	},
+	{
+		"year" : 2005,
+		"total_birds_strike" : 4269
+	},
+	{
+		"year" : 2006,
+		"total_birds_strike" : 4809
+	},
+	{
+		"year" : 2007,
+		"total_birds_strike" : 4660
+	},
+	{
+		"year" : 2008,
+		"total_birds_strike" : 4686
+	},
+	{
+		"year" : 2009,
+		"total_birds_strike" : 6552
+	},
+	{
+		"year" : 2010,
+		"total_birds_strike" : 6831
+	},
+	{
+		"year" : 2011,
+		"total_birds_strike" : 6431
+	}
+]

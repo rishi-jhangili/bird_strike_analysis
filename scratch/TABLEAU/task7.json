@@ -1,0 +1,10 @@
+[
+	{
+		"altitude" : "< 1000 ft",
+		"total_bird_strike" : 48626
+	},
+	{
+		"altitude" : "> 1000 ft",
+		"total_bird_strike" : 7674
+	}
+]

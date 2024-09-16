@@ -1,0 +1,52 @@
+[
+	{
+		"impact_on_flight" : "none",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 44553
+	},
+	{
+		"impact_on_flight" : "none",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 4148
+	},
+	{
+		"impact_on_flight" : "Precautionary Landing",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 2159
+	},
+	{
+		"impact_on_flight" : "Precautionary Landing",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 2052
+	},
+	{
+		"impact_on_flight" : "Aborted Take-off",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 1070
+	},
+	{
+		"impact_on_flight" : "Other",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 766
+	},
+	{
+		"impact_on_flight" : "Aborted Take-off",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 646
+	},
+	{
+		"impact_on_flight" : "Other",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 506
+	},
+	{
+		"impact_on_flight" : "Engine Shut Down",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 385
+	},
+	{
+		"impact_on_flight" : "Engine Shut Down",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 15
+	}
+]

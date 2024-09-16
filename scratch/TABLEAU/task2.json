@@ -1,0 +1,50 @@
+[
+	{
+		"year" : 2000,
+		"total_bird_strike_in_USA" : 3117
+	},
+	{
+		"year" : 2001,
+		"total_bird_strike_in_USA" : 3228
+	},
+	{
+		"year" : 2002,
+		"total_bird_strike_in_USA" : 3973
+	},
+	{
+		"year" : 2003,
+		"total_bird_strike_in_USA" : 3876
+	},
+	{
+		"year" : 2004,
+		"total_bird_strike_in_USA" : 3776
+	},
+	{
+		"year" : 2005,
+		"total_bird_strike_in_USA" : 4226
+	},
+	{
+		"year" : 2006,
+		"total_bird_strike_in_USA" : 4764
+	},
+	{
+		"year" : 2007,
+		"total_bird_strike_in_USA" : 4654
+	},
+	{
+		"year" : 2008,
+		"total_bird_strike_in_USA" : 4669
+	},
+	{
+		"year" : 2009,
+		"total_bird_strike_in_USA" : 6539
+	},
+	{
+		"year" : 2010,
+		"total_bird_strike_in_USA" : 6802
+	},
+	{
+		"year" : 2011,
+		"total_bird_strike_in_USA" : 6399
+	}
+]

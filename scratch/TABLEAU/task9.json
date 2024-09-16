@@ -1,0 +1,37 @@
+[
+	{
+		"phase_of_flight" : "Approach",
+		"altitude_average" : 990.05,
+		"bird_strike" : 20718
+	},
+	{
+		"phase_of_flight" : "Landing Roll",
+		"altitude_average" : 0,
+		"bird_strike" : 12127
+	},
+	{
+		"phase_of_flight" : "Take-off run",
+		"altitude_average" : 0.1,
+		"bird_strike" : 12035
+	},
+	{
+		"phase_of_flight" : "Climb",
+		"altitude_average" : 1199.65,
+		"bird_strike" : 10088
+	},
+	{
+		"phase_of_flight" : "Descent",
+		"altitude_average" : 5933.96,
+		"bird_strike" : 1184
+	},
+	{
+		"phase_of_flight" : "Taxi",
+		"altitude_average" : 0,
+		"bird_strike" : 135
+	},
+	{
+		"phase_of_flight" : "Parked",
+		"altitude_average" : 0,
+		"bird_strike" : 13
+	}
+]

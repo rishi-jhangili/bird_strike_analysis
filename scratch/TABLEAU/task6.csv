@@ -1,0 +1,9 @@
+conditions_precipitation,total_bird_strike
+none,50584
+Rain,3626
+Fog,1423
+Snow,353
+"Fog, Rain",284
+"Rain, Snow",20
+"Fog, Rain, Snow",6
+"Fog, Snow",4

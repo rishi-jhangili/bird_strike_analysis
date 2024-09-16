@@ -1,0 +1,42 @@
+[
+	{
+		"aircraft_airline" : "SOUTHWEST AIRLINES",
+		"total_bird_strike" : 8349
+	},
+	{
+		"aircraft_airline" : "BUSINESS",
+		"total_bird_strike" : 7600
+	},
+	{
+		"aircraft_airline" : "AMERICAN AIRLINES",
+		"total_bird_strike" : 4455
+	},
+	{
+		"aircraft_airline" : "DELTA AIR LINES",
+		"total_bird_strike" : 3296
+	},
+	{
+		"aircraft_airline" : "US AIRWAYS",
+		"total_bird_strike" : 3191
+	},
+	{
+		"aircraft_airline" : "AMERICAN EAGLE AIRLINES",
+		"total_bird_strike" : 2295
+	},
+	{
+		"aircraft_airline" : "SKYWEST AIRLINES",
+		"total_bird_strike" : 1816
+	},
+	{
+		"aircraft_airline" : "JETBLUE AIRWAYS",
+		"total_bird_strike" : 1507
+	},
+	{
+		"aircraft_airline" : "UNITED AIRLINES",
+		"total_bird_strike" : 1406
+	},
+	{
+		"aircraft_airline" : "NORTHWEST AIRLINES",
+		"total_bird_strike" : 1031
+	}
+]

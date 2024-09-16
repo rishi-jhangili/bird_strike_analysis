@@ -1,0 +1,22 @@
+[
+	{
+		"altitude" : "< 1000 ft",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 42650
+	},
+	{
+		"altitude" : "< 1000 ft",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 5976
+	},
+	{
+		"altitude" : "> 1000 ft",
+		"effect_indicated_damage" : "No damage",
+		"total_bird_strike" : 5913
+	},
+	{
+		"altitude" : "> 1000 ft",
+		"effect_indicated_damage" : "Caused damage",
+		"total_bird_strike" : 1761
+	}
+]
